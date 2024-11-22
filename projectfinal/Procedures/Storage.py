@@ -7,7 +7,7 @@ import sys
 from PIL import Image, ExifTags
 
 # Storage configuration
-bucketname = 'cloudnativebucket'
+bucketname = 'cloudbucketfp'
 storage_client = storage.Client()
 datastore_client = datastore.Client()  # Assuming you're using Datastore
 
