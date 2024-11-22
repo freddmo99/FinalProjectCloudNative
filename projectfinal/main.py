@@ -36,7 +36,7 @@ firebase = pyrebase.initialize_app(firebaseConfig)
 auth = firebase.auth()
 
 # Google Cloud Storage configuration
-bucketname = 'cloudnativebucket'
+bucketname = 'cloudbucketfp'
 storage_client = storage.Client()
 datastore_client = datastore.Client()
 # Routes
