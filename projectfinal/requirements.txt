@@ -18,3 +18,5 @@ google-generativeai==0.8.2
 
 #requests==2.31.0
 #probably install pyrebase and setuptools
+
+setuptools
